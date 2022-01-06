@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Pokedex App Demo](./docs/pokedex-app.gif)
+![Pokedex App Demo]
 
 ## About the project
 
