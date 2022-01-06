@@ -20,7 +20,7 @@ To start the development server and run app on simulator or device
 
 To log in, use the following credentials:  
 **Username:** Dief  
-**Password:** teste1234
+**Password:** test1234
 
 ## Core dependencies
 
