@@ -1,12 +1,10 @@
 # React Native Pokédex App
 
-## Demo
 
-![Pokedex App Demo]
 
 ## About the project
 
-Created with [Expo](https://expo.dev/) and [TypeScript](https://www.typescriptlang.org). Renders pokémons list and a detail page. It uses a locally saved user and allows you to select pokémons as favorites. Made as part of [the React Native Course Series on Platzi](https://platzi.com/cursos/react-native-formularios-almacenamiento/).
+Created with [Expo](https://expo.dev/) and [TypeScript](https://www.typescriptlang.org). Renders pokémons list and a detail page. It uses a locally saved user and allows you to select pokémons as favorites.
 
 ## Available Scripts
 
@@ -21,8 +19,8 @@ To start the development server and run app on simulator or device
 #### `yarn ios`
 
 To log in, use the following credentials:  
-**Username:** bgamas  
-**Password:** test1234
+**Username:** Dief  
+**Password:** teste1234
 
 ## Core dependencies
 
